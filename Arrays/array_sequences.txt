@@ -1,0 +1,23 @@
+''' 
+In Python there are 3 types of array sequences:
+    
+    1. List     []
+    2. Tuple    (,)
+    3. String   ""
+
+All of them support indexing.
+
+Python is using UNICODE character with 16 bits (2 bytes)
+It means that a string "EXAMPLE" would take 2*len(str) = 14 bytes (14*8 bits) in memory
+
+
+shallow copy -> meaning you're only changing/creating your pointers, not duplicate objects in memory.
+hard copy    -> duplicating objects in memory.
+'''
+
+
+anagrams.py
+In computer science, a dynamic array, growable array, resizable array, dynamic table, mutable array 
+or array list is a random access, variable-size list data structure that allows elements to be added 
+or removed. It is supplied with standard libraries in many modern mainstream programming languages.
+
